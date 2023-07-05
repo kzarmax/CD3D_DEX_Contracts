@@ -1,4 +1,4 @@
-# CenemaDraft DEX smart contracts - Solidity
+# CinemaDraft DEX smart contracts - Solidity
 
 ### forked from PancakeSwap
 
