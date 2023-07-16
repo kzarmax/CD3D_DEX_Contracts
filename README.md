@@ -4,12 +4,13 @@
 
 ## 1. Deploy Core
 
+```
 yarn build
 
 cd ..
 
 sol-merger ./core/build/Cd3dFactory.sol ./build/
-
+```
 Deploy on Remix and verify
 
 INIT_CODE_PAIR_HASH
